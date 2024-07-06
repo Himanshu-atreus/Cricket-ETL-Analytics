@@ -1,3 +1,3 @@
-                                              Cricket-ETL-project
+<span style="font-size:0.5em;">Text goes here</span>
 
 ![Cricket-ETL](https://github.com/Himanshu-atreus/Cricket-ETL-Analytics/assets/147393154/9895fb2d-cda5-4eb4-9e07-ed22f587ffeb)
